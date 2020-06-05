@@ -21,9 +21,10 @@ In its most basic form – there is the dealer (pc) and the player (user). The p
 
 ** If the player "stands" and has a better hand than the dealer, the dealer will "hit" until they beat the player or "bust".
 
-Card values:  Cards 2 - 10 have are the value of the number on their face.
-              Jack, Queen, King are valued at 10
-              Ace can be 1 or 11 (whatever keeps you in the game)
+Card values:  
+- Cards 2 - 10 have are the value of the number on their face.
+- Jack, Queen, King are valued at 10
+- Ace can be 1 or 11 (whatever keeps you in the game)
               
 ## Workflow
 - Outlined what I will need to code (card deck, game rules, dealer, player, initiate game)
