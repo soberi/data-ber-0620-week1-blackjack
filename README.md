@@ -41,5 +41,5 @@ I used Trello to keep track of what I am doing. My repo only contains the one ju
 ## Links
 Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project. 
 
-[Repository](https://github.com/)   
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/soberi/data-ber-0620-week1-blackjack)   
+[Trello](https://trello.com/b/i1mdLXha/blackjack)  
