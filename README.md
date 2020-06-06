@@ -14,7 +14,7 @@ Ironhack Data Analytics 06-2020 Week 1 Python Project: Blackjack Game
 - [Links](#links)
 
 ## Project Description
-I chose to program Blackjack as a game, because I thought it would be interesting to work with a deck of cards. Alas, due to time constraints, I will submit a simple version of BlackJack that fulfills the project requirements. 
+I chose to program Blackjack as a game, because I thought it would be interesting to work with a deck of cards. Alas, due to time constraints, I will submit a simple version of BlackJack that fulfils the project requirements. 
 
 ## Rules
 - For Vanilla Blackjack I will only use a point system with "cards" numbered 1 - 11. The actual game uses a proper deck of cards.
